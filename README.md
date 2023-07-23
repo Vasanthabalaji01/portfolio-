@@ -1,8 +1,7 @@
-# my portfolio 
+# My Portfolio 
 
-🏗️   [👷](https://vasanthabalaji01.github.io/portfolio-/)<br>
-🚧🚧    🚧🚧
-# portfolio-
+🏗️<br>____________[👷](https://vasanthabalaji01.github.io/portfolio-/)_ask him!_<br>
+🚧🚧__________________🚧🚧
 
 This project was developed with 
 - HTML5
