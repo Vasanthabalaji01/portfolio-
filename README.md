@@ -1,6 +1,6 @@
 # My Portfolio 
 
-🏗️<br>____________[👷](https://vasanthabalaji01.github.io/portfolio-/)_ask him!_<br>
+🏗️______[👷](https://vasanthabalaji01.github.io/portfolio-/)_ask him!_<br>
 🚧🚧__________________🚧🚧
 
 # directory layout
