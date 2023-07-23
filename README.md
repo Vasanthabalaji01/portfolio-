@@ -32,11 +32,10 @@ portfolio.
          ├── 1 Intro
          ├── 2 Works
          ├── 3 About
-         │   └── 1 About Me🚧
-         │       ├── 2 Certification🚧
-         │       ├── 3 Achievements🚧
-         │       ├── 4 Learn@
-         │       │   └── 🚧
+         │   └── 1 About Me 🚧
+         │       ├── 2 Certification 🚧
+         │       ├── 3 Achievements 🚧
+         │       ├── 4 Learn@ 🚧
          │       └── 5 FunZone
          │           └── 🚧
          ├── 4 Contact
